@@ -4,8 +4,8 @@ from course_project import Stock
 connection = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Nikhilesh.2004",
-    database="project"
+    password="xxxxxx",
+    database="xxxxxxx"
 )
 
 
